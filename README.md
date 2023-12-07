@@ -27,9 +27,9 @@ Meet Routiner, your ultimate habit-tracking companion! This app makes managing h
 - ...
 ---
 ### Timeline 
-- Config project: GetIt, Router, Theme, Typo, Color, Locale, Shared data -> 3-4/12
-- Develop feature: Splash & Onboarding -> 5-7/12
-- Develop feature: Home & Add Habit -> 8-15/12
+- Config project: GetIt, Router, Theme, Typo, Color, Locale, Shared data -> 7-9/12
+- Develop feature: Splash & Onboarding -> 10-14/12
+- Develop feature: Home & Add Habit -> 15-24/12
 - ...
 
 ---
