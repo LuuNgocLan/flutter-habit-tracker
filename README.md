@@ -7,8 +7,6 @@ Meet Routiner, your ultimate habit-tracking companion! This app makes managing h
 
 [Author: Mertkahveci](https://www.figma.com/@mertkahveci)
 
-![image](https://github.com/LuuNgocLan/flutter-habit-tracker/assets/29207172/ac803bb0-ce7a-4cb9-81cb-ae0ce6144b6b)
-
 [Link Screen design](https://www.figma.com/community/file/1259830883743258437/routiner-habit-tracker-app)
 
 ![Background](https://github.com/LuuNgocLan/flutter-habit-tracker/assets/29207172/47b16563-d332-4d5b-a783-565a3ff6ef48)
@@ -32,6 +30,9 @@ Meet Routiner, your ultimate habit-tracking companion! This app makes managing h
 - Develop feature: Home & Add Habit -> 15-24/12
 - ...
 
+### Configuration
+
+- Generate route: flutter packages pub run build_runner build
 ---
 Feel free to explore, contribute, and enhance the project following these architectural and design principles! If you have any questions or suggestions, please don't hesitate to reach out.
 
